@@ -15,7 +15,7 @@ gem 'bcrypt', '~> 3.1', '>= 3.1.13'
 gem 'factory_bot_rails'
 gem 'faker', '~> 2.7'
 gem 'kaminari'
-gem 'puma', '~> 4.1'
+gem 'puma', '~> 4.3'
 gem 'rack-cors', require: 'rack/cors'
 gem 'rspec-rails'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
